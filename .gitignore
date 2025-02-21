@@ -17,3 +17,4 @@ scalers/
 *.pkl
 *.pt
 *.ini
+*.ipynb
